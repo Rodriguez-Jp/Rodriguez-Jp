@@ -4,8 +4,8 @@
 <button class="btn">Follow me</button>
 
 
-<style> 
+<styles> 
   .btn{
     background-color: #000;
   }
-</style>
+</styles>
