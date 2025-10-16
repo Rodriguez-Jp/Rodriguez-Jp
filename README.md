@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodriguez-jp&label=Profile%20views&color=0e75b6&style=flat" alt="rodriguez-jp" /> </p>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **ASP.NET Projects**
 
-- 🌱 I’m currently learning **React & Node**
+- 🌱 I’m currently learning **ASP.NET and Backend**
 
 - 👯 I’m looking to collaborate on **Any kind of Web Development project**
 
 - 👨‍💻 All of my projects are available at [Coming soon...](Coming soon...)
-
-- 💬 Ask me about **JavaScript, HTML, TailwindCSS**
 
 - 📫 How to reach me **Juanrdrz16@gmail.com**
 
